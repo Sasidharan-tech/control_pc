@@ -6,3 +6,5 @@ requests
 opencv-python
 mediapipe
 pyautogui
+
+
