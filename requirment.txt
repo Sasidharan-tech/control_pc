@@ -1,0 +1,8 @@
+tk
+Pillow
+speechrecognition
+pyttsx3
+requests
+opencv-python
+mediapipe
+pyautogui
